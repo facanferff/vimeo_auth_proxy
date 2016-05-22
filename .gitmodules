@@ -1,0 +1,3 @@
+[submodule "libsvc"]
+	path = libsvc
+	url = https://github.com/andoma/libsvc
